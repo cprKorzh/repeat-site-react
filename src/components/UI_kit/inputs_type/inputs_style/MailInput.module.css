@@ -1,0 +1,17 @@
+.mailInput {
+    width: 293px;
+    height: 62px;
+    border-radius: 14px;
+    background: #F7F7F7;
+    border: none;
+    color: rgba(0, 0, 0, 0.42);
+    font-size: 16px;
+    font-weight: 400;
+    padding: 21px 26px 21px 26px;
+}
+
+.mailInput:focus {
+    outline: none;
+    border: none;
+    color: black;
+}

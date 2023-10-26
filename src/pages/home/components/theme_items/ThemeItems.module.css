@@ -1,0 +1,60 @@
+.themeBox {
+    padding: 55px 45px;
+    width: 1170px;
+    height: 615px;
+    background-color: white;
+    border: 1px solid #DCDCDC;
+    border-radius: 37px;
+    overflow: hidden;
+}
+
+.tableCard {
+    margin-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 1080px;
+    height: 437px;
+}
+
+h2 {
+    font-size: 28px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.itemBox {
+    display: flex;
+    justify-content: space-between;
+    width: 526px;
+    height: 203px;
+    border-radius: 19px;
+    background: rgba(0, 0, 0, 0.03);
+    padding: 21px 30px;
+    margin: 15px 14px 0px 0px;
+}
+
+.headBox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #43C59E;
+    font-size: 14px;
+    font-weight: 400;
+    width: 121px;
+    height: 31px;
+    border-radius: 11px 11px 11px 0px;
+    background: rgba(67, 197, 158, 0.19);
+}
+
+h3 {
+    margin-top: 11px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+p {
+    margin-top: 11px;
+    color: #707070;
+    font-size: 12px;
+    font-weight: 300;
+}

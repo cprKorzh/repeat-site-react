@@ -1,0 +1,43 @@
+.welcomeBox {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1170px;
+    height: 528px;
+    margin: 38px 0px 50px 0px;
+}
+
+.descriptions {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 548px;
+    height: 422px;
+}
+
+.descriptions p {
+    width: 425px;
+    font-size: 26px;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.runButton {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 433px;
+}
+
+.runButton p {
+    width: 184px;
+    font-size: 13px;
+    font-weight: regular;
+}
+
+.mrPink {
+    color: #FF6BA6;
+}
