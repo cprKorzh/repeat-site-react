@@ -14,7 +14,7 @@ const LiksRoute = () => {
 				<Route path="/examplelesson" element={<ExampleLesson/>} />
 
 				<Route path="*" element={<Navigate to="/404"/>} />
-				<Route path="/404" element={<NotFound/>} />
+				<Route path="/404" element={<Home/>} />
 			</Routes>
 		</Router>
 	);
